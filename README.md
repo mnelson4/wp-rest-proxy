@@ -7,4 +7,4 @@ Eg, if your site is at `mysite.com`, the request `GET http://mysite.com/wp-json/
 This is useful if you have Javascript on your site that needs to retrieve WP REST API data from another site, but that site hasn't configured CORS to allow your site's requests.
 
 * Note: Currently only forwards GET requests.
-* This software is provided as-is, with no 
+* This software is provided as-is, with no warranty. Please see the license for more details.
